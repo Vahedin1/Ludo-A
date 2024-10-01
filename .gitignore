@@ -1,0 +1,5 @@
+# Ignore Ludo-A folder
+Ludo-A/
+
+# Ignore Python cache directory
+__pycache__/
